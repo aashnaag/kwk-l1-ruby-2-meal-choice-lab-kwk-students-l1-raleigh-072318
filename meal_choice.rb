@@ -9,7 +9,8 @@ breakfast = "frosted flake"
 lunch = "grilled cheese"
 dinner = "salmon"
 
-puts ""
+puts "Morning is the best time for #{breakfast}"
+
 
 
 
