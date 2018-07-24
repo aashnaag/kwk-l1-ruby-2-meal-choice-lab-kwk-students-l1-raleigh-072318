@@ -10,15 +10,15 @@ lunch_type = "grilled cheese"
 dinner_type = "salmon"
 
 def breakfast(breakfast_type=frosted flake)
-  puts "Morning is the best time for #{breakfast_type}"
+  puts "Morning is the best time for #{breakfast_type}."
 end
 
 def lunch(lunch_type=grilled cheese)
-  puts "Afternoon is the best time for #{lunch_type}"
+  puts "Afternoon is the best time for #{lunch_type}."
 end
 
 def dinner(dinner_type=salmon)
-  puts "Night is the best time for #{dinner_type}"
+  puts "Night is the best time for #{dinner_type}."
 end
   
 
