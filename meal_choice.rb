@@ -9,7 +9,7 @@ breakfast_type = "frosted flakes"
 lunch_type = "grilled cheese"
 dinner_type = "salmon"
 
-def breakfast(breakfast_type="frosted flake")
+def breakfast(breakfast_type="frosted flakes")
   puts "Morning is the best time for #{breakfast_type}."
 end
 
