@@ -9,7 +9,7 @@ breakfast = "frosted flake"
 lunch = "grilled cheese"
 dinner = "salmon"
 
-def
+puts 
 
 
 
