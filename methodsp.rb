@@ -17,7 +17,7 @@ puts "How tall are you?"
 height=gets
 
 def askAndAnswer(my_name, birth_date, birth_place, height)
-  puts "Hi, my name is #{my_name}. I was born in #{birth_place. I was born on #{birth_date}. I am #{height} tall."
+  puts "Hi, my name is #{my_name}. I was born in #{birth_place}. I was born on #{birth_date}. I am #{height} tall."
 end
 
-askAndAnswer()
+askAndAnswer(my_name, birth_place, birth_date, height)
