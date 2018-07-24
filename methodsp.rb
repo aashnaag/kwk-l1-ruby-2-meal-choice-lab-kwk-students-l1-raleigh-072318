@@ -3,7 +3,6 @@ birth_date = "October10th"
 birth_place = "Raleigh,NC"
 height = "62inches"
 
-puts my_name + "was born in" + "and is from" + "and is"
 
 puts "What is your name?"
 my_name = gets
